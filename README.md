@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/50a82480-1b01-4eb9-983b-8a2a661d7f0a.svg)](https://wakatime.com/@50a82480-1b01-4eb9-983b-8a2a661d7f0a)
 [![OwOHamper's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwOHamper&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![OwOHamper's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OwOHamper&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
