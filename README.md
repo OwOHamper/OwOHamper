@@ -1,15 +1,16 @@
-[![wakatime](https://wakatime.com/badge/user/50a82480-1b01-4eb9-983b-8a2a661d7f0a.svg)](https://wakatime.com/@50a82480-1b01-4eb9-983b-8a2a661d7f0a)
-<!--
-**OwOHamper/OwOHamper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I am Hamper! 
+I am **Passionate Web Developer** with an Interest in **Entrepreneurship**.
 
-Here are some ideas to get you started:
+- 🌐 Visit my [portfolio website](https://hamper.dev/) for more information and to get in touch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OwOHamper&show_icons=true&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwOHamper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="303">
+  <p align="center">
+  <img src="https://wakatime.com/badge/user/50a82480-1b01-4eb9-983b-8a2a661d7f0a.svg" width="200">
+</p>
+</p>
+
+---
